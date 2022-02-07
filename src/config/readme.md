@@ -1,0 +1,1 @@
+### Responsável por armazenas configurações do ambiente

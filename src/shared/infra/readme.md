@@ -1,0 +1,1 @@
+### responsável por definir a tipo de requisição do cliente

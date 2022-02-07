@@ -1,0 +1,1 @@
+### Responsável fornecer funções utilitárias e de validação
