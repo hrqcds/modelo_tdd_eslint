@@ -1,10 +1,9 @@
 function serverConfig() {
-
     const port = process.env.SERVER_PORT;
 
     return { port };
-};
+}
 
-const { port } = serverConfig()
+const { port } = serverConfig();
 
-export { port }
+export { port };
