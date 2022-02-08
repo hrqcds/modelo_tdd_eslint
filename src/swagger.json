@@ -1,0 +1,8 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Sistema de Gerenciamento de Usuários do MFS",
+        "description": "Sistema visa monitorar e controlar o fluxo de usuários da engenharia",
+        "version": "1.0.0"
+    }
+}
